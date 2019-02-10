@@ -16,7 +16,7 @@ paginate:            5
 author:
   name:              Maxwell Conte
   url:               Testing
-  email:             maxwell [dot] conte [at] gmail.com
+  email:             maxwell dot conte at gmail.com
 
 # Custom vars
 version:             1.0.0
