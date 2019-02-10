@@ -2,5 +2,5 @@
 layout: page
 title: Resume
 --
+## Coming soon.
 
-Coming soon.
