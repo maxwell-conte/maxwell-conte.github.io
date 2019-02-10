@@ -1,7 +1,22 @@
-title: Maxwell Conte
-author: Maxwell Conte
-description: Student at the Carol Martin Gatton Academy of Mathematics and Science in Kentucky and Western Kentucky University.
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
 
-theme: jekyll-theme-minimal
-plugins:
-  - jekyll-seo-tag
+
+# Setup
+title:               Maxwell
+tagline:             'Conte'
+description:         ''
+url:                 http://lanyon.getpoole.com
+baseurl:             '/lanyon/'
+paginate:            5
+
+# About/contact
+author:
+  name:              Maxwell Conte
+  url:               Testing
+  email:             maxwell dot conte at gmail.com
+
+# Custom vars
+version:             1.0.0
