@@ -1,21 +1,7 @@
-# Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
+title: Maxwell Conte
+author: Maxwell Conte
+description: Student at the Carol Martin Gatton Academy of Mathematics and Science in Kentucky and Western Kentucky University.
 
-
-# Setup
-title:               Maxwell Conte
-tagline:             'Home'
-description:         ''
-url:                 http://lanyon.getpoole.com
-baseurl:             ''
-paginate:            5
-
-# About/contact
-author:
-  name:              Maxwell Conte
-  url:               maxwell-conte.github.io  
-  email:             maxwell [dot] conte [at] gmail [dot] com
-# Custom vars
-version:             1.0.0
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag
