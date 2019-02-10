@@ -5,8 +5,8 @@ permalink:           pretty
 
 
 # Setup
-title:               Maxwell
-tagline:             'Conte'
+title:               Maxwell Conte
+tagline:             ''
 description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:                 http://lanyon.getpoole.com
 baseurl:             ''
@@ -14,9 +14,8 @@ paginate:            5
 
 # About/contact
 author:
-  name:              Testing
-  url:               Testing
-  email:             Testing
-
+  name:              Maxwell Conte
+  url:               maxwell-conte.github.io  
+  email:             maxwell [dot] conte [at] gmail [dot] com
 # Custom vars
 version:             1.0.0
