@@ -1,4 +1,5 @@
 ---
-layout:page
-title:Resume
+layout: page
+title: Resume
 --
+Coming soon.
