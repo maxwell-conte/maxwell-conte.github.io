@@ -11,6 +11,7 @@ description:         ''
 url:                 http://lanyon.getpoole.com
 baseurl:             '/lanyon/'
 paginate:            5
+encoding: UTF-8
 
 # About/contact
 author:
