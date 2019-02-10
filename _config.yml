@@ -5,11 +5,11 @@ permalink:           pretty
 
 
 # Setup
-title:               Maxwell
-tagline:             'Conte'
+title:               Maxwell Conte
+tagline:             'Home'
 description:         ''
 url:                 http://lanyon.getpoole.com
-baseurl:             '/lanyon/'
+baseurl:             ''
 paginate:            5
 
 # About/contact
