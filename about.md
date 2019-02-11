@@ -4,4 +4,3 @@ title: About
 ---
 
 ## Coming soon
-$$\Psi$$
