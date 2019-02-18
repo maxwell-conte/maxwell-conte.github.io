@@ -6,7 +6,7 @@ title: Experience
 
 
 **Undergraduate Research Assistant**, *Marder* *Group*, School of Chemistry and Biochemistry, Georgia Institute of Technology
-- January 2019 to Present
+- January 2019 to present
 
 **Undergraduate Research Assistant**, *Nee Group*, Department of Chemistry, Western Kentucky University
   - August 2017 — May 2018
@@ -20,7 +20,7 @@ title: Experience
 
   
 
-## Publications and presentations
+# Publications and presentations
 
 1. Gerelkhuu, Z.; Jung, D.; Huy, B.T.; Tawfik, S.M.; **Conte, M.L.**; Conte, E.D.; Lee, Y.I. Highly selective and sensitive detection of catecholamines using NaLuGdF<sub>4</sub>:Yb<sup>3+</sup>/Er<sup>3+</sup> upconversion nanoparticles decorated with metal ions. *Sens. Actuator B-Chem.* **2019**, *284*, 172-178.
 2. **Conte, M.L.**; Nee, M.J. Molecular dynamics modeling of atmospheric sulfur dioxide-water interactions at the interface. Presented at the 48th Western Kentucky University Student Research Conference, Bowling Green, Kentucky, March 24, 2018.
