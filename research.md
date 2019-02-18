@@ -2,7 +2,6 @@
 layout: page
 title: Experience
 ---
-## Experience
 
 January 2019 to Present
 
