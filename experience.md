@@ -7,7 +7,7 @@ title: Experience
 
 **Undergraduate Research Assistant**, *Marder* *Group*, School of Chemistry and Biochemistry, Georgia Institute of Technology
 - January 2019 to present
-
+- Synthesizing imidazole-based n-dopants for organic semiconductor applications.
 **Undergraduate Research Assistant**, *Nee Group*, Department of Chemistry, Western Kentucky University
   - August 2017 — May 2018
   - Modeled atmospheric sulfur dioxide-water interactions leading to sulfate-core aerosol formation with Amber14 molecular dynamics and the WKU High Performance Computer (HPC). 
