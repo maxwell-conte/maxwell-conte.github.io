@@ -6,7 +6,7 @@ author: Maxwell
 # last_modified_at: 2022-01-22
 # math: false
 tags: cassette
-category: thoughts
+category: hobbies
 comments: true
 ---
 
