@@ -24,5 +24,5 @@ The situation of cassette use today is interesting. A large part comes from olde
 
 Because of the rising interest, you might wonder why no quality tape players are being made. Much of this difficulty comes from the loss of manufacturing know-how and infrastructure, since cassette player production suffered greatly as CDs became mainstream in the 1990s. Especially until good, new players come into production, my goal is to continue my repair work, and hopefully help others discover the experience of tape by getting machines into their hands.
 
-If you are interested in how cassettes are used today, I encourage you to check out two of the most active discussion boards, [tapeheads.net](http://www.tapeheads.net/) and [/r/cassetteculture](http://reddit.com/r/cassetteculture).
+If you are interested in how cassettes are used today, I encourage you to check out two of the most active discussion boards, [tapeheads.net](http://www.tapeheads.net/) and [/r/cassetteculture](http://reddit.com/r/cassetteculture). Additionally, several YouTube channels, such as [Techmoan](https://www.youtube.com/c/Techmoan), [Cassette Comeback](https://www.youtube.com/c/CassetteComeback), and [ARandomOven](https://www.youtube.com/channel/UC1ltHeOnl20SL7CXrNsnAVA) provide some relevant perspectives.
 
