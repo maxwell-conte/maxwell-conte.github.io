@@ -16,10 +16,11 @@ For many, our first thoughts of cassette tapes are that they are cumbersome to u
 
 To make this hobby sustainable, however, learning to make repairs to machines is a necessity. To many enthusiasts, no great modern-day cassette players are in production, so sourcing good machines from the 1980s-1990s provides the best chance of a good listening experience. These players often need minor repairs to get working again and overhauls to guarantee working condition for many more years. Today, however, the number of trained technicians is dwindling. Having both electrical and mechanical components, troubleshooting and repairing cassette players was exciting to me. These repair projects were also a chance to apply some of my electronics education. 
 
+![Imgur Link](https://i.imgur.com/820liaF.jpg) *test caption1*
+
 The situation of cassette use today is interesting to me. A large part comes from older adults who have continued using them or are re-visiting the hobby, like my dad. For many of them, purchasing previously unaffordable top-shelf equipment is possible today. Another portion comes from younger people who are enjoying the growing number of new cassette tape releases of both mainstream music and small labels. For these reasons, the prices of equipment and tapes, most of which are limited to new old stock or used, has risen over the years. 
 
 Because of the rising interest, you might wonder why no quality tape players are being made. Much of this difficulty comes from the loss of manufacturing know-how and infrastructure, since cassette player production suffered greatly as CDs became mainstream in the 1990s. Especially until good, new players come into production, my goal is to continue my repair work, and hopefully help others discover the experience of tape by getting machines into their hands.
 
 If you are interested in how cassettes are used today, I encourage you to check out two of the most active discussion boards, [tapeheads.net](http://www.tapeheads.net/) and [/r/cassetteculture](http://reddit.com/r/cassetteculture).
 
-![Imgur Image](http://i.imgur.com/zTONrOD.jpg)
