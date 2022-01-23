@@ -20,6 +20,8 @@ To make this hobby sustainable, however, learning to make repairs to machines is
 
 The situation of cassette use today is interesting. A large part comes from older adults who have continued using them or are re-visiting the hobby, like my dad. For many of them, purchasing previously unaffordable top-shelf equipment is possible today. Another portion comes from younger people who are enjoying the growing number of new cassette tape releases of both mainstream music and small labels. For these reasons, the prices of equipment and tapes, most of which are limited to new old stock or used, has risen over the years. 
 
+![Imgur](https://i.imgur.com/Ug9aMGG.jpg)
+
 Because of the rising interest, you might wonder why no quality tape players are being made. Much of this difficulty comes from the loss of manufacturing know-how and infrastructure, since cassette player production suffered greatly as CDs became mainstream in the 1990s. Especially until good, new players come into production, my goal is to continue my repair work, and hopefully help others discover the experience of tape by getting machines into their hands.
 
 If you are interested in how cassettes are used today, I encourage you to check out two of the most active discussion boards, [tapeheads.net](http://www.tapeheads.net/) and [/r/cassetteculture](http://reddit.com/r/cassetteculture).
