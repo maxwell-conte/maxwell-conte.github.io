@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Using audio cassettes in the 2020s
+title: Using audio cassettes today
 description: My perspectives with the format
 author: Maxwell
 # last_modified_at: 2022-01-23
