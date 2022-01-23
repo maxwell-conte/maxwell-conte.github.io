@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Using audio cassettes today
-description: My perspectives with the format
+description: My perspectives from re-discovering the audio format
 author: Maxwell
 # last_modified_at: 2022-01-23
 # math: false
