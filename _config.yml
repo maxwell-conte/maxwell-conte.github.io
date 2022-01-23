@@ -8,7 +8,7 @@ tags_path: /tags/
 categories_path: /categories/
 
 disqus: 
-google_analytics: 
+google_analytics: G-RM3LBRL0HZ
 
 plugins:
   - jekyll-sitemap
