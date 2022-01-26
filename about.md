@@ -4,7 +4,7 @@ permalink: /about/
 ---
 I study chemical engineering and chemistry at Georgia Tech.
 
-My main research interests are organic materials for photonic and electronic applications.
+My research interests relate to organic materials for photonic and electronic applications.
 
 I write about life as a student, research, school, and hobbies, among other topics. 
 
